@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1459110715 source:c:\codeblocks\assmb\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<sstream>
+	"Conversion.h"
+
+1459110715 c:\codeblocks\assmb\include\conversion.h
+	<string>
+	<cmath>
+	<sstream>
+
+1459110715 source:c:\codeblocks\assmb\src\conversion.cpp
+	"Conversion.h"
+	<cmath>
+
+1460294975 source:c:\ides\codeblocks\assmb\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<sstream>
+	"Conversion.h"
+
+1459110715 c:\ides\codeblocks\assmb\include\conversion.h
+	<string>
+	<cmath>
+	<sstream>
+
+1459110715 source:c:\ides\codeblocks\assmb\src\conversion.cpp
+	"Conversion.h"
+	<cmath>
+
